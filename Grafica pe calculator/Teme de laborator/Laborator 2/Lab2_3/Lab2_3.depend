@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1574961755 source:e:\univ\info 3\grafica pe calculator\lab2_3\main.cpp
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1574966094 source:e:\univ\info 3\grafica pe calculator\lab2_spirala\main.cpp
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1573734680 source:e:\univ\info 3\grafica pe calculator\exemple\sinus.cpp
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446667738 source:e:\univ\info 3\grafica pe calculator\lab1\main.c
+	<windows.h>
+	<gl/gl.h>
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1446667738 source:e:\univ\info 3\grafica pe calculator\project\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1572886139 source:e:\univ\info 3\grafica pe calculator\project\main.cpp
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1578833615 source:e:\univ\info 3\grafica pe calculator\main.cpp
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1574601674 source:e:\univ\info 3\grafica pe calculator\proiect.cpp
+	<GL/freeglut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
